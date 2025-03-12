@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="km" attr.type="long" />
+  <key id="d1" for="node" attr.name="y" attr.type="long" />
+  <key id="d0" for="node" attr.name="x" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="Ljubljana">
+      <data key="d0">0</data>
+      <data key="d1">0</data>
+    </node>
+    <node id="Celje">
+      <data key="d0">6</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Maribor">
+      <data key="d0">9</data>
+      <data key="d1">5</data>
+    </node>
+    <node id="Ptuj">
+      <data key="d0">10</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Murska Sobota">
+      <data key="d0">12</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="Krsko">
+      <data key="d0">7</data>
+      <data key="d1">-1</data>
+    </node>
+    <node id="Novo mesto">
+      <data key="d0">5</data>
+      <data key="d1">-3</data>
+    </node>
+    <node id="Kocevje">
+      <data key="d0">2</data>
+      <data key="d1">-5</data>
+    </node>
+    <node id="Postojna">
+      <data key="d0">-3</data>
+      <data key="d1">-2</data>
+    </node>
+    <node id="Koper">
+      <data key="d0">-6</data>
+      <data key="d1">-6</data>
+    </node>
+    <node id="Kranj">
+      <data key="d0">-1</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="Jesenice">
+      <data key="d0">-4</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Nova Gorica">
+      <data key="d0">-7</data>
+      <data key="d1">-1</data>
+    </node>
+    <node id="Velenje">
+      <data key="d0">5</data>
+      <data key="d1">4</data>
+    </node>
+    <node id="Dravograd">
+      <data key="d0">4</data>
+      <data key="d1">6</data>
+    </node>
+    <edge source="Ljubljana" target="Kranj">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Ljubljana" target="Novo mesto">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="Ljubljana" target="Celje">
+      <data key="d2">73</data>
+    </edge>
+    <edge source="Ljubljana" target="Postojna">
+      <data key="d2">51</data>
+    </edge>
+    <edge source="Ljubljana" target="Kocevje">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="Celje" target="Maribor">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="Celje" target="Velenje">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="Maribor" target="Murska Sobota">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="Maribor" target="Ptuj">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="Krsko" target="Novo mesto">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="Postojna" target="Nova Gorica">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="Postojna" target="Koper">
+      <data key="d2">64</data>
+    </edge>
+    <edge source="Kranj" target="Jesenice">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="Velenje" target="Dravograd">
+      <data key="d2">36</data>
+    </edge>
+  </graph>
+</graphml>
